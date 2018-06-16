@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![](http://res.cloudinary.com/hashnode/image/upload/w_200/v1466495663/static_imgs/mern/v2/mernio-logo.png)
 
 # mern-starter
@@ -273,3 +274,6 @@ This warning is visible only on development and totally harmless. This occurs to
 
 ## License
 MERN is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+=======
+# mooch
+>>>>>>> 0b965eddedf967eb10a60bb593f8c51255932818
